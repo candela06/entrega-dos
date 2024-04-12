@@ -22,7 +22,7 @@ def jugador_influyente(jugadores):
 
 
 def goal_average(goals_scored):    
-    average = (sum(goals_scored))/3   
+    average = (sum(goals_scored))/25   
     return average
 
 def top_scorer_average(goles):
